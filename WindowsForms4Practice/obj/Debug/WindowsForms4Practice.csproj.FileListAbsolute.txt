@@ -1,0 +1,9 @@
+D:\Programming\ASP.NET\4Practice\WindowsForms4Practice\bin\Debug\WindowsForms4Practice.exe.config
+D:\Programming\ASP.NET\4Practice\WindowsForms4Practice\bin\Debug\WindowsForms4Practice.exe
+D:\Programming\ASP.NET\4Practice\WindowsForms4Practice\bin\Debug\WindowsForms4Practice.pdb
+D:\Programming\ASP.NET\4Practice\WindowsForms4Practice\obj\Debug\WindowsForms4Practice.csproj.AssemblyReference.cache
+D:\Programming\ASP.NET\4Practice\WindowsForms4Practice\obj\Debug\WindowsForms4Practice.Properties.Resources.resources
+D:\Programming\ASP.NET\4Practice\WindowsForms4Practice\obj\Debug\WindowsForms4Practice.csproj.GenerateResource.cache
+D:\Programming\ASP.NET\4Practice\WindowsForms4Practice\obj\Debug\WindowsForms4Practice.csproj.CoreCompileInputs.cache
+D:\Programming\ASP.NET\4Practice\WindowsForms4Practice\obj\Debug\WindowsForms4Practice.exe
+D:\Programming\ASP.NET\4Practice\WindowsForms4Practice\obj\Debug\WindowsForms4Practice.pdb

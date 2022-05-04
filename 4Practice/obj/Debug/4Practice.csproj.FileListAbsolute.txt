@@ -1,0 +1,7 @@
+D:\Programming\ASP.NET\4Practice\4Practice\bin\4Practice.dll.config
+D:\Programming\ASP.NET\4Practice\4Practice\bin\4Practice.dll
+D:\Programming\ASP.NET\4Practice\4Practice\bin\4Practice.pdb
+D:\Programming\ASP.NET\4Practice\4Practice\obj\Debug\4Practice.csproj.AssemblyReference.cache
+D:\Programming\ASP.NET\4Practice\4Practice\obj\Debug\4Practice.csproj.CoreCompileInputs.cache
+D:\Programming\ASP.NET\4Practice\4Practice\obj\Debug\4Practice.dll
+D:\Programming\ASP.NET\4Practice\4Practice\obj\Debug\4Practice.pdb
